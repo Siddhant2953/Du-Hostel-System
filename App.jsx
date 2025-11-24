@@ -1,0 +1,1 @@
+/* React code for DU Hostel Management System (omitted for brevity in this step) */
