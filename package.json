@@ -2,6 +2,7 @@
   "name": "du-hms",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://siddhant2953.github.io/Du-Hostel-System",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
